@@ -23,3 +23,7 @@ The Net reaches 84% accuracy on the test set.
 
 
 
+
+### TODO
+- Data augmentation
+- Try to classify different parts of the galaxy: bulks, arm, bars, etc.
